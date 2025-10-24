@@ -4,6 +4,5 @@ def say_hello():
     print(f"Hello {name}!")
 
 if __name__ == "__main__":
-    # example usage
     say_hello()
 
